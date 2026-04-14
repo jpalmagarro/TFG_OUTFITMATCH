@@ -1,4 +1,0 @@
-GitHub: https://github.com/jillpg/TFG_OUTFITMATCH
-Streamlit (mateix id en imatge i json): https://tfg-outfitmatch.streamlit.app/ 
-
-(Potser Streamlit no funciona degut al limit de hores)
