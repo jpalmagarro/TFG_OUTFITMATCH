@@ -1,4 +1,7 @@
-streamlit
-tensorflow
+streamlit>=1.30.0
+tensorflow>=2.15.0
+pandas
+Pillow
+requests
 matplotlib
-scikit-learn
+scikit-learn>=1.4.0
